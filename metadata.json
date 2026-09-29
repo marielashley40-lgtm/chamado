@@ -1,0 +1,6 @@
+{
+  "name": "SGC - Sistema de Chamados de Manutenção",
+  "description": "Sistema de abertura e encerramento de chamados industriais para operadores e mecânicos integrado ao Supabase com animações fluidas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
